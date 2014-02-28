@@ -1,12 +1,10 @@
 /* Ryan Houlihan
- * CIS 2168
- * Rolf Lakaemper
- * Lab 4
  *
  * Class asks the user to input a file name into a JTextField and then continues the
  * program once a file name is given
  */
-package lab_4_2;
+
+package Deer;
 
 import javax.swing.*;
 import java.awt.*;

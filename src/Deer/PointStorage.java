@@ -1,11 +1,8 @@
 /* Ryan Houlihan
- * CIS 2168
- * Rolf Lakaemper
- * Lab 4
- *
+ * 
  * Class that stores two points X and Y and there sigValue
  */
-package lab_4_2;
+package Deer;
 
 public class PointStorage {
     private int xPos;

@@ -1,12 +1,9 @@
 /* Ryan Houlihan
- * CIS 2168
- * Rolf Lakaemper
- * Lab 4
- *
+ * 
  * This class creates the image of the object using the points read in by the user
  */
 
-package lab_4_2;
+package Deer;
 import javax.swing.*;
 import java.awt.*;
 

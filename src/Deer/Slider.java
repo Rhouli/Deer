@@ -1,12 +1,9 @@
 /* Ryan Houlihan
- * CIS 2168
- * Rolf Lakaemper
- * Lab 4
- *
+ * 
  * Creates the slider used for viewing the steps of the point reduction
  */
 
-package lab_4_2;
+package Deer;
 
 import javax.swing.*;
 import java.awt.*;

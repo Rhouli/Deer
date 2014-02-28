@@ -1,11 +1,9 @@
+
 /* Ryan Houlihan
- * CIS 2168
- * Rolf Lakaemper
- * Lab 4
  *
  * Interface for the ListIterator
  */
-package lab_4_2;
+package Deer;
 
 public interface ListIterator {
 

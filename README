@@ -1,0 +1,15 @@
+Author: Ryan Houlihan
+Deer Image Point Reducer
+
+Description: Given a list of points this application takes these points and gives them all a sigValue. The sigValue being there importance to the visual depiction of the list of points. The program removes the least important points based on there sigValues and prints out a new object. The number of points used to represent the object can be reduced down to a total of 38 points.
+
+Usage: When prompted enter in either "points.txt" or your own x,y coordinate file with spacing as:
+
+10 0
+18 0
+17 2
+21 7
+19 12
+23 16
+
+Then use slidebar at bottom of screen to adjust the number of points used. 

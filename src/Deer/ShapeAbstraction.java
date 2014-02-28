@@ -1,15 +1,12 @@
 /* Ryan Houlihan
- * CIS 2168
- * Rolf Lakaemper
- * Lab 4
  *
- * Givin a list of points this application takes these points and gives them all a sigValue.
+ * Given a list of points this application takes these points and gives them all a sigValue.
  * The sigValue being there importance to the visual depiction of the list of points.
  * The program removes the least important points based on there sigValues and prints out
  * a new object with a total of 38 points
  */
 
-package lab_4_2;
+package Deer;
 
 import java.io.*;
 import java.util.*;

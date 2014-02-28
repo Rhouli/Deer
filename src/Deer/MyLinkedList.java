@@ -1,12 +1,9 @@
 /* Ryan Houlihan
- * CIS 2168
- * Rolf Lakaemper
- * Lab 4
- *
+ * 
  * Linked List created to use instead of java's standard linked list class
  */
 
-package lab_4_2;
+package Deer;
 
 import java.util.*;
 
